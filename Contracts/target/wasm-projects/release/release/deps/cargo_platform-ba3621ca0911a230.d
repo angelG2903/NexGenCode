@@ -1,0 +1,9 @@
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/libcargo_platform-ba3621ca0911a230.rmeta: /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo-platform-0.1.6/src/lib.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo-platform-0.1.6/src/cfg.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo-platform-0.1.6/src/error.rs
+
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/libcargo_platform-ba3621ca0911a230.rlib: /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo-platform-0.1.6/src/lib.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo-platform-0.1.6/src/cfg.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo-platform-0.1.6/src/error.rs
+
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/cargo_platform-ba3621ca0911a230.d: /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo-platform-0.1.6/src/lib.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo-platform-0.1.6/src/cfg.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo-platform-0.1.6/src/error.rs
+
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo-platform-0.1.6/src/lib.rs:
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo-platform-0.1.6/src/cfg.rs:
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo-platform-0.1.6/src/error.rs:

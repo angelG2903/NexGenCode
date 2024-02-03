@@ -1,0 +1,10 @@
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/libwhich-0ae0ad465108b0d9.rmeta: /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/lib.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/checker.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/error.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/finder.rs
+
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/libwhich-0ae0ad465108b0d9.rlib: /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/lib.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/checker.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/error.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/finder.rs
+
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/which-0ae0ad465108b0d9.d: /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/lib.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/checker.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/error.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/finder.rs
+
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/lib.rs:
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/checker.rs:
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/error.rs:
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-4.4.2/src/finder.rs:

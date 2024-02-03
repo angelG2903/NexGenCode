@@ -1,0 +1,10 @@
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/wasm32-unknown-unknown/release/deps/libbs58-177038b53401e304.rmeta: /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/lib.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/alphabet.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/decode.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/encode.rs
+
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/wasm32-unknown-unknown/release/deps/libbs58-177038b53401e304.rlib: /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/lib.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/alphabet.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/decode.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/encode.rs
+
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/wasm32-unknown-unknown/release/deps/bs58-177038b53401e304.d: /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/lib.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/alphabet.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/decode.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/encode.rs
+
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/lib.rs:
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/alphabet.rs:
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/decode.rs:
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/encode.rs:

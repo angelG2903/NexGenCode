@@ -1,0 +1,9 @@
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/release/deps/libonce_cell-492ac6c5cab83634.rmeta: /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.19.0/src/lib.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.19.0/src/imp_std.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.19.0/src/race.rs
+
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/release/deps/libonce_cell-492ac6c5cab83634.rlib: /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.19.0/src/lib.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.19.0/src/imp_std.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.19.0/src/race.rs
+
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/release/deps/once_cell-492ac6c5cab83634.d: /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.19.0/src/lib.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.19.0/src/imp_std.rs /home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.19.0/src/race.rs
+
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.19.0/src/lib.rs:
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.19.0/src/imp_std.rs:
+/home/angel2903/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.19.0/src/race.rs:
