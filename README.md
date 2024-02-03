@@ -1,35 +1,34 @@
-# Funcionamiento de DApp en el Sector Salud
+# Operation of Health Sector DApp
 
-La DApp (Aplicación Descentralizada) creada para el sector salud se centra en la recopilación de datos personales. Estos datos son accesibles para todos aquellos que posean el Token asociado a cada usuario.
+The DApp (Decentralized Application) created for the health sector focuses on the collection of personal data. These data are accessible to all those who possess the Token associated with each user.
 
-## Características Principales
+## Key Features
 
-- **Sector Objetivo:** Salud
-- **Funcionalidad Principal:** Recopilación de Datos Personales
-- **Acceso a Datos:** Basado en Tokens de Usuario
+- **Target Sector:** Health
+- **Primary Functionality:** Collection of Personal Data
+- **Data Access:** Token-Based
 
-## Detalles de Funcionamiento
+## Operational Details
 
-La DApp opera con los siguientes principios:
+The DApp operates based on the following principles:
 
-1. **Token de Usuario:**
-   - Cada usuario de la DApp posee un Token único asociado a su identidad.
+1. **User Token:**
+   - Each user of the DApp has a unique Token associated with their identity.
 
-2. **Recopilación de Datos:**
-   - La aplicación permite la recopilación de datos personales de los usuarios del sector salud.
+2. **Data Collection:**
+   - The application allows for the collection of personal data from users in the health sector.
 
-3. **Visibilidad de Datos:**
-   - Los datos recopilados son visibles para todos aquellos que posean el Token correspondiente al usuario.
+3. **Data Visibility:**
+   - The collected data is visible to all those who possess the Token corresponding to the user.
 
-## Ventajas
+## Advantages
 
-- **Descentralización:** Al estar construida sobre tecnología blockchain, la DApp aprovecha los principios de descentralización para garantizar la seguridad y la integridad de los datos.
+- **Decentralization:** Being built on blockchain technology, the DApp leverages decentralization principles to ensure the security and integrity of data.
 
-- **Acceso Controlado:** El acceso a los datos está controlado mediante la posesión de Tokens, proporcionando una capa adicional de seguridad y privacidad.
+- **Controlled Access:** Data access is controlled through the possession of Tokens, providing an additional layer of security and privacy.
 
-## Consideraciones Éticas y Legales
+## Ethical and Legal Considerations
 
-Es importante destacar que la recopilación y visibilidad de datos personales deben cumplir con los estándares éticos y legales establecidos en el sector salud. Se debe prestar especial atención a la privacidad y confidencialidad de la información del usuario.
+It is important to note that the collection and visibility of personal data must comply with ethical and legal standards established in the health sector. Special attention should be paid to user information privacy and confidentiality.
 
-Este esquema básico del funcionamiento de la DApp en el sector salud. Cualquier implementación específica deberá tener en cuenta las regulaciones y requisitos específicos de la jurisdicción correspondiente.
-
+This is a basic outline of the operation of the DApp in the health sector. Any specific implementation should take into account the regulations and specific requirements of the corresponding jurisdiction.
