@@ -31,4 +31,11 @@ The DApp operates based on the following principles:
 
 It is important to note that the collection and visibility of personal data must comply with ethical and legal standards established in the health sector. Special attention should be paid to user information privacy and confidentiality.
 
-This is a basic outline of the operation of the DApp in the health sector. Any specific implementation should take into account the regulations and specific requirements of the corresponding jurisdiction.
+## Setup Instructions
+
+1. Clone the repository provided by `git clone https://github.com/angelG2903/NexGenCode.git`
+2. Navigate to the directory: `cd NexGenCode-/Frontend`
+3. Install dependencies using yarn: `yarn install`
+4. Run the application: `yarn start`
+
+This is a basic outline of the operation of the DApp in the health sector.

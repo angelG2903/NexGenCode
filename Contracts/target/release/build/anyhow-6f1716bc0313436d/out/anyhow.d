@@ -1,6 +1,6 @@
-/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/release/build/anyhow-6f1716bc0313436d/out/libanyhow.rmeta: build/probe.rs
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/target/release/build/anyhow-6f1716bc0313436d/out/libanyhow.rmeta: build/probe.rs
 
-/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/Example-Semaforo-Tutorial/Semaforo-Contract/target/release/build/anyhow-6f1716bc0313436d/out/anyhow.d: build/probe.rs
+/mnt/c/Users/angel/OneDrive/Documentos/Programas/Hackaton/NexGenCode/Contracts/target/release/build/anyhow-6f1716bc0313436d/out/anyhow.d: build/probe.rs
 
 build/probe.rs:
 
